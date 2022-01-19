@@ -1,0 +1,1 @@
+Istasyon_No|Istasyon_Adi|YIL|AY|ORTALAMA_TOPRAK_NEMI_80

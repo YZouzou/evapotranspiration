@@ -1,0 +1,68 @@
+{
+    "1": [
+        "max_temp",
+        "avg_ws"
+    ],
+    "2": [
+        "max_temp",
+        "min_temp",
+        "avg_ws"
+    ],
+    "3": [
+        "max_temp",
+        "avg_hum"
+    ],
+    "4": [
+        "min_temp",
+        "avg_ws"
+    ],
+    "5": [
+        "avg_temp",
+        "avg_ws"
+    ],
+    "6": [
+        "avg_ws",
+        "avg_hum"
+    ],
+    "7": [
+        "max_temp",
+        "avg_ws",
+        "month"
+    ],
+    "8": [
+        "max_temp",
+        "avg_ws",
+        "month",
+        "Ra"
+    ],
+    "9": [
+        "max_temp",
+        "avg_ws",
+        "month",
+        "inc_rad"
+    ],
+    "10": [
+        "max_temp",
+        "avg_ws",
+        "month",
+        "avg_hum"
+    ],
+    "11": [
+        "inc_rad",
+        "avg_hum"
+    ],
+    "12": [
+        "inc_rad",
+        "max_temp",
+        "avg_hum"
+    ],
+    "13": [
+        "inc_rad",
+        "avg_ws",
+        "avg_hum"
+    ],
+    "14": [
+        "inc_rad",
+        "max_temp"
+    ]
+}
