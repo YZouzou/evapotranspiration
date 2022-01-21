@@ -2,7 +2,7 @@
 
 This section contains the notebooks used to split the data to train and test datasets, train the ML models, and explore the predictions and evaluation metrics.
 
-<img src="https://raw.githubusercontent.com/YZouzou/evapotranspiration/main/part_3/img/pred_vs_meas.png" width="700" height="200">
+<img src="https://raw.githubusercontent.com/YZouzou/evapotranspiration/main/part_3/img/pred_vs_meas.png" width="1050" height="300">
 
 ## Directory definitions:
 * **functions**: This directory contains the function and class definitions used in part 3.
