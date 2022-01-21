@@ -2,6 +2,8 @@
 
 This section contains the notebooks used to split the data to train and test datasets, train the ML models, and explore the predictions and evaluation metrics.
 
+<img src="https://raw.githubusercontent.com/YZouzou/evapotranspiration/main/part_3/img/pred_vs_meas.png" width="700" height="200">
+
 ## Directory definitions:
 * **functions**: This directory contains the function and class definitions used in part 3.
 * **algorithm_name (MLR, SVR, etc.)**: Directories named by algorithm names contain the trained models, predictions, evaluation metrics, and model parameters.
