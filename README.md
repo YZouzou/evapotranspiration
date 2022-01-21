@@ -21,7 +21,7 @@ The previous equation, however, requires several climatic measurements that may 
 
 ## Structure
 The project is divided into three parts:
-* **Part 1:** Reference evapotranspiration computation from raw climatic data using the Fao 56 PM equation (Eq. \ref{eq1}).
+* **Part 1:** Reference evapotranspiration computation from raw climatic data using the Fao 56 PM equation (Eq. 1).
 * **Part 2:** Exploratory data analysis of the climatic data.
 * **Part 3:** Application of machine learning algorithms to estimate ET0 from limited climatic variables. This part also includes an analysis and commentary on the prediction results.
 
