@@ -6,8 +6,6 @@
 * [Structure](#structure)
 * [References](#references)
 
-<img src="https://raw.githubusercontent.com/YZouzou/evapotranspiration/main/part_3/img/result_analysis.png" width="815" height="350">
-
 ## Overview
 This repository contains a project conducted on weather data collected from stations in the Ege region in Turkey to estimate reference evapotranspiration using limited climatic variables.
 
